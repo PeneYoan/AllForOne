@@ -1,7 +1,9 @@
-AllForOne  
-Plateforme collaborative pour l'engagement communautaire
+# AllForOne  
+### Plateforme collaborative pour l'engagement communautaire
 
- Introduction
+---
+
+##  Introduction
 
 Dans un monde de plus en plus connecté mais paradoxalement fragmenté, la collaboration au sein des communautés locales devient un enjeu crucial. Les individus disposent aujourd’hui d’une multitude d’outils numériques, mais peu favorisent une véritable interaction sociale autour d’objectifs communs tels que l’entraide, la solidarité ou la mise en commun de compétences.  
 
@@ -11,7 +13,7 @@ En tant que PDG fondateur, ma vision est de créer un écosystème numérique du
 
 ---
 
-Problématique
+##  Problématique
 
 Les sociétés contemporaines font face à un double défi : d’un côté, une hyperconnexion technologique qui isole les individus derrière leurs écrans, et de l’autre, un affaiblissement progressif du tissu communautaire local. Les initiatives sociales et solidaires existent, mais elles peinent souvent à se structurer, à se coordonner et à se pérenniser.  
 
@@ -25,7 +27,7 @@ Face à ces défis, **AllForOne** ambitionne de devenir le pont numérique entre
 
 ---
 
-Objectifs du projet
+##  Objectifs du projet
 
 Le projet **AllForOne** poursuit plusieurs objectifs fondamentaux :
 
@@ -38,7 +40,7 @@ Le projet **AllForOne** poursuit plusieurs objectifs fondamentaux :
 
 ---
 
-## 🌍 Portée du projet
+##  Portée du projet
 
 La portée d’**AllForOne** s’étend sur plusieurs niveaux :
 
