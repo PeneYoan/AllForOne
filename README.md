@@ -53,7 +53,7 @@ La plateforme se veut évolutive : son architecture modulaire permettra d’int�
 
 ---
 
-## 🧠 Concept de la solution
+##  Concept de la solution
 
 ### Vision générale
 
@@ -63,7 +63,7 @@ L’expérience utilisateur est pensée pour être fluide, intuitive et particip
 
 ---
 
-## ⚙️ Architecture technique
+##  Architecture technique
 
 ### 1. Frontend (React.js)
 
@@ -101,7 +101,7 @@ Afin d’assurer la **tolérance aux pannes** et la **scalabilité**, l’infras
 
 ---
 
-## 🔒 Sécurité et tolérance aux pannes
+##  Sécurité et tolérance aux pannes
 
 ### Tolérance aux pannes
 AllForOne intègre des mécanismes de **failover automatique**, garantissant la continuité du service même en cas de panne d’un nœud. Les microservices sont indépendants : une défaillance partielle n’affecte pas l’ensemble du système.  
@@ -115,7 +115,7 @@ Les données utilisateurs sont protégées grâce à :
 
 ---
 
-## 🧑‍🤝‍🧑 Collaboration et communauté
+##  Collaboration et communauté
 
 La collaboration est le cœur du projet.  
 Les utilisateurs peuvent :
@@ -128,7 +128,7 @@ Chaque interaction alimente la base de connaissances collective, créant ainsi u
 
 ---
 
-## 🚀 Scalabilité et performance
+##  Scalabilité et performance
 
 L’un des piliers d’AllForOne est sa **scalabilité horizontale**. Grâce à l’architecture distribuée :
 - Les services peuvent être répliqués sur plusieurs serveurs.  
@@ -140,7 +140,7 @@ Cette approche assure une **croissance sans perte de performance**.
 
 ---
 
-## 🛠️ Technologies principales
+##  Technologies principales
 
 | Catégorie | Technologie utilisée | Rôle principal |
 |------------|---------------------|----------------|
@@ -154,7 +154,7 @@ Cette approche assure une **croissance sans perte de performance**.
 
 ---
 
-## 🗓️ Plan de développement (calendrier narratif)
+##  Plan de développement (calendrier narratif)
 
 Le développement du projet est organisé en **cinq phases principales** :
 
@@ -186,7 +186,7 @@ Le développement du projet est organisé en **cinq phases principales** :
 
 ---
 
-## 📈 Impact attendu
+##  Impact attendu
 
 **AllForOne** a pour ambition de générer un **impact social positif** à long terme :  
 - Renforcement du tissu social local.  
@@ -198,7 +198,7 @@ Sur le plan technique, le projet illustre la mise en œuvre concrète des princi
 
 ---
 
-## 🧭 Perspectives d’évolution
+##  Perspectives d’évolution
 
 L’avenir du projet inclut plusieurs pistes :
 - **Application mobile native** (React Native).  
@@ -208,7 +208,7 @@ L’avenir du projet inclut plusieurs pistes :
 
 ---
 
-## 💬 Conclusion
+##  Conclusion
 
 **AllForOne** est bien plus qu’une application web : c’est une vision de la communauté augmentée par la technologie. En combinant **collaboration**, **résilience** et **scalabilité**, elle redéfinit la manière dont les citoyens interagissent et construisent ensemble.  
 
@@ -217,7 +217,7 @@ C’est un projet ancré dans le réel, conçu pour évoluer, et destiné à dur
 
 ---
 
-## 🧱 Annexes
+##  Annexes
 
 **Type de projet :** Système web collaboratif et distribué  
 **Langages principaux :** JavaScript (React, Node.js)  
@@ -228,7 +228,5 @@ C’est un projet ancré dans le réel, conçu pour évoluer, et destiné à dur
 
 ---
 
-> _« La technologie ne doit pas seulement connecter les machines, mais surtout les êtres humains. »_  
-> — Vision fondatrice du projet **AllForOne**
 
 ---
